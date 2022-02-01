@@ -1,3 +1,3 @@
 # file
-bulleted list
+- bulleted list
 another item
