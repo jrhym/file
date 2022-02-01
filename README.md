@@ -1,3 +1,3 @@
 # file
 - bulleted list
-another item
+- another item
